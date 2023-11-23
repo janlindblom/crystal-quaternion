@@ -1,0 +1,9 @@
+name: quaternion
+version: 0.1.0
+
+authors:
+  - Jan Lindblom <janlindblom@fastmail.fm>
+
+crystal: '>= 1.10.1'
+
+license: MIT
